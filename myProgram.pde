@@ -1,3 +1,4 @@
+/* @pjs preload="donut.svg"; */
 PShape bot;
     bird b = new bird();
     pillar[] p = new pillar[3];
