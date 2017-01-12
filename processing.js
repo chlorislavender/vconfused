@@ -9,7 +9,7 @@
     http://processingjs.org
 
 ***/
-
+/* @pjs preload="file1.png","file2.png","file3.jgp"; */
 (function(window, document, Math, undef) {
   var nop = function() {};
   var debug = function() {
